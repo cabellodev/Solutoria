@@ -1,13 +1,10 @@
-###################
+
 Proyecto
-###################
 
 Este proyecto fue realizado con el Framework CodeIgniter ( PHP ) . 
 
-*******************
 Instalación : 
 Se requiere de un servidor local como XAMPP  , arracando tanto MYSQL y APACHE . 
-*******************
 
 Nota importante : 
 
